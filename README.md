@@ -19,3 +19,6 @@ A browser-based text RPG game built with TypeScript and vanilla HTML/CSS.
 - TypeScript
 - HTML
 - Vanilla JavaScript (compiled from TypeScript)
+
+## What I Learned
+I built this project to learn JavaScript and TypeScript fundamentals including DOM manipulation, interfaces, type assertions, array methods, and event listeners.
