@@ -1,6 +1,6 @@
 # Text RPG
 
-A browser-based text RPG game built with TypeScript and vanilla HTML/CSS.
+A browser-based text RPG game built with TypeScript and vanilla HTML
 
 ## Gameplay
 - Fight randomly spawned enemies (Goblin, Orc, Troll, Dragon)
